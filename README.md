@@ -1,2 +1,2 @@
 # crab_casus
-repo for my machine learning intro class's crab casus assignment
+repo for my theme 09 machine learning intro class's crab casus assignment
